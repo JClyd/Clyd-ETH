@@ -22,7 +22,7 @@ contract MyToken {
 
     // public variables here
     string public tokenName = "Shane";
-    string public tokenAbbrv = "SHN";
+    string public tokenAbbrv = "Shn";
     uint public totalSupply = 0;
 
 
